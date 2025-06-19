@@ -8,7 +8,7 @@ Projede IoT sensör verileri, scriptle üretildiği için, datasets klasöründe
 
 ## 🔗 Önemli Bağlantılar
 
-- 🎥 Proje Videosu (Bora): [https://youtu.be/YTwNlZJRh4k](https://youtu.be/YTwNlZJRh4k)
+- 🎥 Proje Videosu (Bora): [https://youtu.be/tA8p7Vt9Aio](hhttps://youtu.be/tA8p7Vt9Aio)
 - 📊 Canlı Dashboard: [Looker Studio](https://lookerstudio.google.com/reporting/95e13dc5-2708-4148-885f-037f6f775e4c/page/t2HMF)
 - 🔗 Orijinal GitHub Reposu: [github.com/brckfrc/sensora](https://github.com/brckfrc/sensora)
 

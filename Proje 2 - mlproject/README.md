@@ -11,7 +11,7 @@ Projede kullanılan datasetler, root klasöründeki datasets klasörünün için
 ## 🔗 Önemli Bağlantılar
 
 - 🎥 Proje Videosu (Bora): [https://youtu.be/P8G7fpsn-ig](https://youtu.be/P8G7fpsn-ig)
-- 🔗 GitHub Reposu: [https://github.com/hsyntinaztepe/mlproject](https://github.com/hsyntinaztepe/mlproject)
+- 🔗 Orijinal GitHub Reposu: [https://github.com/hsyntinaztepe/mlproject](https://github.com/hsyntinaztepe/mlproject)
 
 ---
 

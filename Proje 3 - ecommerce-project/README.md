@@ -10,7 +10,7 @@ Proje, hazır bir e-ticaret şablonunun cloud deployment adımları ve entegrasy
 
 - 🎥 Proje Videosu (Bora): [https://youtu.be/K70y9Q2krTs](https://youtu.be/K70y9Q2krTs)
 - 🌐 Canlı Site: [https://nice-sand-04de3bb0f.6.azurestaticapps.net](https://nice-sand-04de3bb0f.6.azurestaticapps.net)
-- 🔗 GitHub Reposu: [https://github.com/hsyntinaztepe/ecommerce-project](https://github.com/hsyntinaztepe/ecommerce-project)
+- 🔗 Orijinal GitHub Reposu: [https://github.com/hsyntinaztepe/ecommerce-project](https://github.com/hsyntinaztepe/ecommerce-project)
 
 ---
 
